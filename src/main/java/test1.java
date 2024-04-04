@@ -7,7 +7,7 @@ public class test1 {
         System.out.println("44444444");
         System.out.println("33333333");
          System.out.println("222 from github 11");
-         System.out.println("222 from github 222");
+         System.out.println("222 from github 22");
 
     }
 }
